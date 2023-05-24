@@ -40,11 +40,11 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/5513996792729" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
-  <a href="https://wa.me/5513996792729" alt="WhatsApp">
-  <img src="https://drive.google.com/file/d/1-WU2btGBJm_vUdyTbkE09PcefzN4N_Zf"/></a>
-
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> </p>
+  <p align="left">
+  <a href="https://wa.me/5513996792729" alt="WhatsApp" >
+  <img style="width:50px;height:50px;" src="https://github.com/gbrazdev/gbrazdev/blob/main/89C83AFB-FA57-4DF6-9B06-97281E8D476B.ico"/></a>
+</p>
 
 
 
