@@ -56,5 +56,5 @@
 
 
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=gbrazdev&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=gbrazdev&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 </div>
