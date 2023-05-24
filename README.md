@@ -42,8 +42,8 @@
   <a href="https://wa.me/5513996792729" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> </p>
   <p align="left">
-  <a href="https://wa.me/5513996792729" alt="WhatsApp" >
-  <img style="width:50px;height:50px;" src="https://github.com/gbrazdev/gbrazdev/blob/main/89C83AFB-FA57-4DF6-9B06-97281E8D476B.ico"/></a>
+  <a href="www.devcode.com" alt="WhatsApp" >
+  <img style="width:100px;height:100px;" src="https://github.com/gbrazdev/gbrazdev/blob/main/89C83AFB-FA57-4DF6-9B06-97281E8D476B.ico"/></a>
 </p>
 
 
