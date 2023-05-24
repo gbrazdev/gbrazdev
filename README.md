@@ -4,8 +4,7 @@
   </P>
 <p align="left"> 
   
-  Desenvolvedor FullStack na  COOPERATIVA REGIONAL DE CAFEICULTORES EM GUAXUPE LTDA COOXUPE, 
-  Apaixonado por técnologias e novidades, curioso por natureza.
+  Desenvolvedor FullStack na  COOPERATIVA REGIONAL DE CAFEICULTORES EM GUAXUPE LTDA COOXUPE, e CEO na Dev.Code - Desenvolvimento e Design, Apaixonado por técnologias e novidades, curioso por natureza.
 </p>
 
 <p align="left">
@@ -42,6 +41,9 @@
 
   <a href="https://wa.me/5513996792729" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  
+  <a href="https://wa.me/5513996792729" alt="WhatsApp">
+  <img src="https://drive.google.com/file/d/1-WU2btGBJm_vUdyTbkE09PcefzN4N_Zf"/></a>
 
 
 
