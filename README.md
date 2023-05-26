@@ -1,53 +1,60 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<p>
-  <h2>💜 Olá, meu nome é <strong>Gabriel Braz!</strong></h2>
-  </P>
-<p align="left"> 
+
+![](https://komarev.com/ghpvc/?username=gbrazdev&color=006bed)
+
+<h3> 🏋️‍♂️: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **TADS** no <a href="https://unip.br">Unip</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** na <a href="https://www.cooxupe.com.br">Cooxupé</a>
+- 🌱 &nbsp; Aprendendo mais sobre **IA**.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
   
-  Desenvolvedor FullStack na  COOPERATIVA REGIONAL DE CAFEICULTORES EM GUAXUPE LTDA COOXUPE, e CEO na Dev.Code - Desenvolvimento e Design, Apaixonado por técnologias e novidades, curioso por natureza.
-</p>
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
 
-<p align="left">
-  ----
-## 🚀 Minhas Skills 
-  </p>
-  <p align="left">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat" /> 
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&style=flat" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=flat" />
-  <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&style=flat" />
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&style=flat" />
- <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat" />   
-  <img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=flat" />
-  <img alt="FireBase" src="https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white&style=flat" />
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&style=flat" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&style=flat" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat" />
-  </p>
+**Utilidades**
 
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
+**DevOps**
 
-<p align="left">
-  💌 Entre em contato comigo: ⤵️
-</p>
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
-<p align="left">
-  <a href="mailto:gabrielbrazdev@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=@gabrielbrazdev@gmail.com" /></a>
+**Ferramentas de Desenvolvimento**
 
-  <a href="https://www.linkedin.com/in/gabriel-braz-649a1325/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-  <a href="https://wa.me/5513996792729" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a> </p>
-  <p align="left">
-  <a href="www.devcode.com" alt="WhatsApp" >
-  <img style="width:100px;height:100px;" src="https://github.com/gbrazdev/gbrazdev/blob/main/89C83AFB-FA57-4DF6-9B06-97281E8D476B.ico"/></a>
-</p>
+<br/>
 
+<a href="https://github.com/gbrazdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrazdev&theme=dracula&show_icons=true" />
+</a>
 
+<br/>
 
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=gbrazdev&rank_icon=github&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-</div>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Gabriel Braz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-braz-649a1325/)](https://www.linkedin.com/in/gabriel-braz-649a1325/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbrazdev@gmail.com)](mailto:gabrielbrazdev@gmail.com)
+[![GitHub Gabriel Braz]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/gbrazdev)
