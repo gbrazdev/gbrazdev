@@ -5,9 +5,9 @@
 <h3> 🏋️‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **TADS** no <a href="https://unip.br">Unip</a>.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor FullStack** na <a href="https://www.cooxupe.com.br">Cooxupé</a>
-- 🌱 &nbsp; Aprendendo mais sobre **IA**.
+- 🎓 &nbsp; Estudando **TADS** no <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas Especialista Flutter/Angular/JAVA** na <a href="https://www.ppware2.com.br">Peopleware-Tecnologia</a>.
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
