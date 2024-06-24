@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
-- 💼 &nbsp; Trabalhando como **Analista de Sistemas Especialista Flutter/Angular/JAVA** na <a href="https://www.ppware2.com.br">Peopleware-Tecnologia</a>.
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas Especialista Flutter/Angular/JAVA/SQL** na <a href="https://www.ppware2.com.br">Peopleware-Tecnologia</a>.
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -26,6 +26,7 @@
   ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-333333??style=flat&logo=postgresql)
   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-333333??style=flat&logo=Amazon%20DynamoDB&logo)
+  ![Nestjs](https://img.shields.io/badge/-NestJs-333333??style=flat&logo=NestJs)
 
 **Utilidades**
 
