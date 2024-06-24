@@ -21,12 +21,13 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Nextjs](https://img.shields.io/badge/-NextJs-333333??style=flat&logo=NextJs)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-333333??style=flat&logo=postgresql)
-  ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-333333??style=flat&logo=Amazon%20DynamoDB&logo)
   ![Nestjs](https://img.shields.io/badge/-NestJs-333333??style=flat&logo=NestJs)
+
 
 **Utilidades**
 
