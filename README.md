@@ -22,7 +22,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nextjs](https://img.shields.io/badge/-NextJs-333333??style=flat&logo=NextJs)
+  ![Nextjs](https://img.shields.io/badge/-next.js-333333??style=flat&logo=next.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-333333??style=flat&logo=postgresql)
