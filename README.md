@@ -13,7 +13,9 @@
 
 **Aplicações e Dados**
   
-  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
+  ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js)
+  ![Go](https://img.shields.io/badge/go-333333?style=flat&logo=go)
   ![Spring](https://img.shields.io/badge/spring-333333??style=flat&logo=spring)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-333333??style=flat&logo=Thymeleaf)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
