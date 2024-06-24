@@ -5,7 +5,7 @@
 <h3> 🏋️‍♂️: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
+- 🎓 &nbsp; **SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas Especialista Flutter/Angular/JAVA/SQL** na <a href="https://www.ppware2.com.br">Peopleware-Tecnologia</a>.
 
 
