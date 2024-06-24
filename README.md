@@ -13,7 +13,7 @@
 
 **Aplicações e Dados**
   
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=Java)
   ![Spring](https://img.shields.io/badge/spring-333333??style=flat&logo=spring)
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-333333??style=flat&logo=Thymeleaf)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
