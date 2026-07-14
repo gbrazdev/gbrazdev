@@ -18,7 +18,7 @@
 Sou especialista em engenharia de software e arquitetura de sistemas distribuídos, com foco em alta performance, escalabilidade e resiliência. Minha atuação é centrada na criação de soluções robustas para o mercado corporativo e financeiro, aplicando práticas consolidadas de design e engenharia moderna.
 
 - 💼 Atualmente atuando como **Senior Backend Engineer** na **Zup Innovation** (alocado no **Itaú Unibanco**).
-- 🚀 Liderando a estratégia tecnológica e arquitetura como **CTO** na startup **Diagnosis** (ecossistema Inova Saúde).
+- 🚀 Liderando a estratégia tecnológica e arquitetura como **CTO** na startup **Diagnosis**.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **UniCesumar**.
 - 📍 Baseado em Barra do Garças, MT - Brasil.
 
@@ -39,7 +39,7 @@ Sou especialista em engenharia de software e arquitetura de sistemas distribuíd
 Defendo a sinergia entre a arquitetura de software sólida e a automação inteligente. Incorporo ferramentas cognitivas de última geração diretamente no meu fluxo de engenharia para acelerar entregas, refatorar código legado de forma segura e projetar arquiteturas resilientes:
 
 * **Claude (Anthropic):** Utilizado estrategicamente como parceiro avançado de pair programming, auxiliando na modelagem de domínios complexos (DDD), escrita de testes arquiteturais e validação de padrões de design.
-* **Devin (Cognition):** Engenheiro de software autônomo baseado em IA integrado ao ciclo de desenvolvimento para execução de tarefas ponta a মজponta, automação de setups complexos e prototipagem acelerada.
+* **Devin (Cognition):** Engenheiro de software autônomo baseado em IA integrado ao ciclo de desenvolvimento para execução de tarefas ponta a ponta, automação de setups complexos e prototipagem acelerada.
 * **Agentes de IA (AGI/Agents):** Orquestração e desenvolvimento de fluxos assistidos por IA para otimização de pipelines de CI/CD, geração automatizada de documentação técnica e monitoramento inteligente de microsserviços.
 
 ---
@@ -91,15 +91,9 @@ Defendo a sinergia entre a arquitetura de software sólida e a automação intel
 ### 📊 Estatísticas de Contribuição
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrazdev&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrazdev&theme=tokyonight&layout=compact&langs_count=6" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrazdev&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrazdev&theme=tokyonight&layout=compact" alt="Top Languages" />
 </p>
-
----
-
-### 🥋 Fora do Código
-
-Além de projetar ecossistemas de software robustos, sou **faixa preta de Jiu-Jitsu** e professor filiado à **Gracie Barra**. Acredito verdadeiramente que a disciplina, a consistência e o foco exigidos nos tatames são os mesmos pilares que sustentam a excelência técnica no desenvolvimento e na arquitetura de software.
 
 ---
 
