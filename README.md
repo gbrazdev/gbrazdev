@@ -1,78 +1,55 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Olá, eu sou o Gábriel de Oliveira Braz! 👋
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Ilustração Computador">
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriel-braz-649a1325/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:gabrielbrazdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=gbrazdev&color=006bed)
 
-<h3> 🏋️‍♂️: &nbsp;Sobre mim </h3>
+---
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; **SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** na <a href="https://www.unicesumar.edu.br/home/">Unicesumar</a>.
-- 💼 &nbsp; Trabalhando como **Analista de Sistemas Especialista Flutter/Angular/JAVA/SQL** na <a href="https://www.ppware2.com.br">Peopleware-Tecnologia</a>.
+### 🏛️ Senior Backend Engineer & Software Architect
 
+Sou especialista em engenharia de software e arquitetura de sistemas distribuídos, com foco em alta performance, escalabilidade e resiliência. Minha atuação é centrada na criação de soluções robustas para o mercado corporativo e financeiro, aplicando práticas consolidadas de design e engenharia moderna.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+- 💼 Atualmente atuando como **Senior Backend Engineer** na **Zup Innovation** (alocado no **Itaú Unibanco**).
+- 🚀 Liderando a estratégia tecnológica como **CTO** na startup **Inova Saúde**.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **UniCesumar**.
+- 📍 Baseado em Barra do Garças, MT - Brasil.
 
-**Aplicações e Dados**
-  
-  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk)
-  ![NodeJS](https://img.shields.io/badge/node.js-333333?style=flat&logo=node.js)
-  ![Go](https://img.shields.io/badge/go-333333?style=flat&logo=go)
-  ![Spring](https://img.shields.io/badge/spring-333333??style=flat&logo=spring)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-333333??style=flat&logo=Thymeleaf)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=white)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Nextjs](https://img.shields.io/badge/-next.js-333333??style=flat&logo=next.js)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Aws](https://img.shields.io/badge/Amazon_AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-333333??style=flat&logo=postgresql)
-  ![Nestjs](https://img.shields.io/badge/-NestJs-333333??style=flat&logo=NestJs)
+---
 
+### 🧠 Visão e Princípios Arquiteturais
 
-**Utilidades**
+* **Domain-Driven Design (DDD):** Foco total no coração do domínio de negócios, garantindo alinhamento técnico e estratégico.
+* **Decoupled Architectures:** Amplo domínio e aplicação prática de **Arquitetura Hexagonal (Ports & Adapters)** e **Clean Architecture**, mantendo as regras de negócio puras e independentes de frameworks e bancos de dados.
+* **Sistemas Distribuídos & Nuvem:** Concepção de soluções escaláveis, resilientes e orientadas a eventos (Event-Driven) na **AWS**, aplicando padrões de mensageria e alta disponibilidade.
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+---
 
-**DevOps**
+### 🧰 Tech Stack & Ferramental
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
- 
-
-  **Hosting/SaaS**
-
-   ![Heroku](https://img.shields.io/badge/heroku-333333??style=flat&logo=heroku)
-
-**Ferramentas de Desenvolvimento**
-
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-333333??style=flat&logo=intellij-idea)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333??style=flat&logo=android-studio)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-  **Cursos**
-  
-  ![Udemy](https://img.shields.io/badge/Udemy-333333??style=flat&logo=Udemy)
-
-<br/>
-
-<a href="https://github.com/gbrazdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrazdev&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin: Gabriel Braz](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-braz-649a1325/)](https://www.linkedin.com/in/gabriel-braz-649a1325/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielbrazdev@gmail.com)](mailto:gabrielbrazdev@gmail.com)
-[![GitHub Gabriel Braz]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/gbrazdev)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>☕ Backend & Core</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+      <br/><br/>
+      <h4>☁️ Cloud & DevOps</h4>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </td>
+    <td valign="top" width="50%">
+      <h4>🗄️ Bancos de Dados</h4>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="
