@@ -18,7 +18,7 @@
 Sou especialista em engenharia de software e arquitetura de sistemas distribuídos, com foco em alta performance, escalabilidade e resiliência. Minha atuação é centrada na criação de soluções robustas para o mercado corporativo e financeiro, aplicando práticas consolidadas de design e engenharia moderna.
 
 - 💼 Atualmente atuando como **Senior Backend Engineer** na **Zup Innovation** (alocado no **Itaú Unibanco**).
-- 🚀 Liderando a estratégia tecnológica como **CTO** na startup **Inova Saúde**.
+- 🚀 Liderando a estratégia tecnológica como **CTO** na startup **Diagnosis**.
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **UniCesumar**.
 - 📍 Baseado em Barra do Garças, MT - Brasil.
 
